@@ -1,0 +1,51 @@
+product_id,product_name,category,unit_price
+1,Product_1, electronics ,19783.75
+2,Product_2, electronics ,11163.79
+3,Product_3, electronics ,16797.49
+4,Product_4, electronics ,19807.4
+5,Product_5, electronics ,2917.76
+6,Product_6,Electronics,9020.09
+7,Product_7,Home,7912.2
+8,Product_8,Books,1692.98
+9,Product_9,Electronics,15131.07
+10,Product_10,Clothing,8732.2
+11,Product_11,Books,9439.61
+12,Product_12,Home,3098.39
+13,Product_13,Books,3700.44
+14,Product_14,Clothing,18151.36
+15,Product_15,Clothing,988.52
+16,Product_16,Home,4733.76
+17,Product_17,Electronics,5911.98
+18,Product_18,Electronics,9854.93
+19,Product_19,Home,11770.26
+20,Product_20,Home,9916.47
+21,Product_21,Electronics,1773.9
+22,Product_22,Home,4948.98
+23,Product_23,Clothing,16887.41
+24,Product_24,Home,12788.02
+25,Product_25,Books,13018.07
+26,Product_26,Electronics,13437.04
+27,Product_27,Books,15281.77
+28,Product_28,Clothing,1256.36
+29,Product_29,Books,7395.51
+30,Product_30,Clothing,10836.6
+31,Product_31,Clothing,6835.28
+32,Product_32,Books,16905.13
+33,Product_33,Home,9703.19
+34,Product_34,Electronics,15395.69
+35,Product_35,Home,17055.11
+36,Product_36,Books,10145.35
+37,Product_37,Clothing,18200.09
+38,Product_38,Books,11783.77
+39,Product_39,Home,17020.46
+40,Product_40,Clothing,6877.76
+41,Product_41,Electronics,10026.46
+42,Product_42,Home,10675.08
+43,Product_43,Electronics,2189.1
+44,Product_44,Books,8031.19
+45,Product_45,Home,18355.02
+46,Product_46,Clothing,12653.56
+47,Product_47,Electronics,3632.38
+48,Product_48,Home,6843.23
+49,Product_49,Electronics,3912.9
+50,Product_50,Clothing,593.98

@@ -1,0 +1,108 @@
+
+==================================================
+DATASET: CUSTOMERS
+==================================================
+Rows: 500
+Columns: 4
+Duplicate rows: 0
+
+Column data types:
+customer_id       int64
+customer_name    object
+city             object
+signup_date      object
+
+Missing values per column:
+customer_id       0
+customer_name     0
+city             15
+signup_date       0
+
+Unique values per column:
+customer_id      500
+customer_name    500
+city               5
+signup_date      352
+
+Sample records:
+ customer_id customer_name   city signup_date
+           1    Customer_1 Jaipur  2025-03-14
+           2    Customer_2   Pune  2026-02-20
+           3    Customer_3   Pune  2026-09-07
+           4    Customer_4 Mumbai  2026-07-08
+           5    Customer_5 Mumbai  2025-06-24
+
+==================================================
+DATASET: PRODUCTS
+==================================================
+Rows: 50
+Columns: 4
+Duplicate rows: 0
+
+Column data types:
+product_id        int64
+product_name     object
+category         object
+unit_price      float64
+
+Missing values per column:
+product_id      0
+product_name    0
+category        0
+unit_price      0
+
+Unique values per column:
+product_id      50
+product_name    50
+category         5
+unit_price      50
+
+Sample records:
+ product_id product_name      category  unit_price
+          1    Product_1  electronics     19783.75
+          2    Product_2  electronics     11163.79
+          3    Product_3  electronics     16797.49
+          4    Product_4  electronics     19807.40
+          5    Product_5  electronics      2917.76
+
+==================================================
+DATASET: ORDERS
+==================================================
+Rows: 5025
+Columns: 7
+Duplicate rows: 24
+
+Column data types:
+order_id          int64
+customer_id       int64
+product_id        int64
+order_date       object
+quantity        float64
+unit_price      float64
+total_amount    float64
+
+Missing values per column:
+order_id         0
+customer_id      0
+product_id       0
+order_date       0
+quantity        20
+unit_price       0
+total_amount     0
+
+Unique values per column:
+order_id        5000
+customer_id      500
+product_id        50
+order_date       654
+quantity           6
+unit_price        50
+total_amount     250
+
+Sample records:
+ order_id  customer_id  product_id order_date  quantity  unit_price  total_amount
+        1          419          46 not-a-date       1.0    12653.56      12653.56
+        2          304          20 2025-09-26       1.0     9916.47       9916.47
+        3          464          44 2025-10-06       2.0     8031.19      16062.38
+        4          346           9 2026-02-04       4.0    15131.07      60524.28
+        5          225          46 2026-06-01       1.0    12653.56      12653.56
